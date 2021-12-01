@@ -1,0 +1,12 @@
+diff --git a/src/main.c b/src/main.c
+index 26d207e..80171a4 100644
+--- a/src/main.c
++++ b/src/main.c
+@@ -1,5 +1,6 @@
+ #include <stdio.h>
+ int main() {
+    printf("Hello ESPL!");
++   printf("New print!");
+    return 0;
+ }
+\ No newline at end of file
